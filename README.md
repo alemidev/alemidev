@@ -1,6 +1,6 @@
 Hey there!
 
-I'm a graduating Computer Engineering student. I like to keep myself busy and challanged: I am always working on something!
+I'm a Software Engineer. I like to keep myself busy and challanged: I am always working on something!
 
 I acquired experience in various IT fields thanks to my projects and hobbies.
 
