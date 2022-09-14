@@ -1,14 +1,15 @@
-Hey there!
+To whom it may concern,
 
-I'm a Software Engineer. I like to keep myself busy and challanged: I am always working on something!
+I'm a Software Engineer, and I am constantly trying to improve my skills.
 
-I acquired experience in various IT fields thanks to my projects and hobbies.
+I love to challange myself, and I'm always working on something (usually OSS on GitHub, but I also do some hardware). Thanks to this, I could develop my experience in various IT fields: be it Machine Learning, Embedded Development, Backend, Cyber Security or Distribuited Systems, I always found a project that would give me a problem to solve, and then studied and learned until I could overcome it.
 
-I am fascinated with Information and Cyber security, and I take parts to CTFs and relevant competitions whenever I can.
-I like electronics and am working on custom musical instruments, both digital (with Arduinos) and analog.
-I am a Linux enthusiast and gained experience first-hand: my main machine runs a Linux distro and I deployed (and scrapped) microservices on small VPSes.
-I am comfortable with Git, and collaborated with others on shared projects.
+I'm fascinated by the whole IT world, but especially from security, embedded or OS fields.
 
-I had the opportunity to take part in a stage for a startup working with Machine Learning. While gaining some experience in the field, I built a working unsupervised ML model for outlier detection and matured interest for the field.
+I love Linux, all my local and remote machines run some flavor of it. I am also familiar with the terminal and most CLI tools.
 
-I can read documentation and learn autonomously libraries, paradigms and software tools. I want to keep growing, professionalizing myself and learning new skills. I need challanges and tasks to carry on, and I won't stop studying all that is IT.
+I try to take part to CyberSecurity challanges ("CTFs") when I can, and have some knowledge from the field.
+
+I believe that code quality is a very important aspect and always try to make clean and maintainable source code. I enjoy reading other people's code: I can often learn new patterns from it.
+
+For anything, don't hesitate to [leave a message](https://alemi.dev/suggestions/After%20checking%20my%20github,%20do%20you%20have%20any%20questions%3F) or get in touch <me@alemi.dev>
