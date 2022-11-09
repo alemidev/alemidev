@@ -1,5 +1,3 @@
-To whom it may concern,
-
 I'm a Software Engineer, and I am constantly trying to improve my skills.
 
 I love to challenge myself, and I'm always working on something (usually OSS on GitHub, but I also do some hardware). Thanks to this, I could develop my experience in various IT fields: be it Machine Learning, Embedded Development, Backend, Cyber Security or Distribuited Systems, I always found a project that would give me a problem to solve, and then studied and learned until I could overcome it.
