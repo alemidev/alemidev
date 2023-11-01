@@ -1,1 +1,1 @@
-Hey there! If you want to learn more about me, check [> my personal site <](https://alemi.dev/)! If you're just here for my software, that's even cooler, don't hesitate to open issues, fork me or drop some stars :3
+[![banner of some river in some forest with edited colors](https://alemi.dev/img/about-slice-1.png)](https://alemi.dev)
