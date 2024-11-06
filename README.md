@@ -10,5 +10,5 @@ curl -X PUT \
 ```
 
 ```sh
-curl -s https://api.alemi.dev/mood | jq -r .mood
+curl -s https://api.alemi.dev/msg | jq '.[:5].[] | {author, body, date}'
 ```
