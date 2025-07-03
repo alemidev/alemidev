@@ -12,3 +12,5 @@ curl -X PUT \
 ```sh
 curl -s https://api.alemi.dev/msg | jq '.[:5].[] | {author, body, date}'
 ```
+
+<p align="right"><a href="https://github.com/alemidev/guestbook.rs">guestbook.rs</a></p>
