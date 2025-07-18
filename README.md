@@ -1,6 +1,6 @@
 [![banner with logo](https://cdn.alemi.dev/profile/pic/banner.png)](https://alemi.dev)
 
-> i rarely make sense but still make things
+> [ curious :: shy :: 32 x 41 :: trans ]
 
 ```sh
 curl -X PUT \
