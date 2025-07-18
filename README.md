@@ -1,6 +1,6 @@
 [![banner with logo](https://cdn.alemi.dev/profile/pic/banner.png)](https://alemi.dev)
 
-> [ curious :: shy :: 32 x 41 :: trans ]
+> i touch computers for a living, try to make music for fun and bike everywhere (cars bad)
 
 ```sh
 curl -X PUT \
