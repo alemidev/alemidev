@@ -1,6 +1,6 @@
 [![banner with logo](https://cdn.alemi.dev/profile/pic/banner.png)](https://alemi.dev)
 
-> i touch computers for a living, try to make music for fun and bike everywhere (cars bad)
+> i touch computers for a living, try to make music for fun and bike everywhere
 
 ```sh
 curl -X PUT \
